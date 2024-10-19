@@ -1,2 +1,1 @@
-# Business Intelligence-BI
-Adventureworks analysis on PowerBI
+# Business Intelligence Adventureworks analysis on PowerBI
